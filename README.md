@@ -9,15 +9,12 @@ My research interest includes computer vision and Adversarial attack and defense
 - *[2025.08]*: &nbsp;🎉🎉 Our team won the **Second Prize** (East China Division) in the National University IC Innovation and Entrepreneurship Competition!
 - *2024.09*: &nbsp;Started my master's study at Zhejiang University.
 
-**Zidong Zhao** (and team members if any)
 
 [**GitHub Repository**]([YOUR-GITHUB-LINK-1]) <strong><span class='show_paper_citations'></span></strong>
 - Developed for the National University IC Innovation and Entrepreneurship Competition.
 - The system identifies analog IC models using computer vision techniques.
 - **Our team won the Second Prize in the East China Division for this work.**
 
-
-[Research on Dish Recognition Technology Based on Computer Vision]([YOUR-GITHUB-LINK-2])
 
 **Zidong Zhao**
 
