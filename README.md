@@ -8,15 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
 I am **Zidong Zhao**, a second-year master's student in Electronic Information at the College of Information Science & Electronic Engineering, Zhejiang University. I received my B.S. degree in Electronic Information Engineering from Hangzhou Dianzi University in 2023.
 
 My research interest includes computer vision and Adversarial attack and defense.
@@ -25,13 +16,6 @@ My research interest includes computer vision and Adversarial attack and defense
 # 🔥 News
 - *[2025.08]*: &nbsp;🎉🎉 Our team won the **Second Prize** (East China Division) in the National University IC Innovation and Entrepreneurship Competition!
 - *2024.09*: &nbsp;Started my master's study at Zhejiang University.
-
-# 💻 Projects
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Competition</div><img src='images/your-ic-project-image.png' alt="IC Recognition Project" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Analog IC Reverse Recognition System based on Computer Vision]([YOUR-GITHUB-LINK-1])
 
 **Zidong Zhao** (and team members if any)
 
